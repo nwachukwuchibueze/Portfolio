@@ -2,7 +2,7 @@ import styles from '../styles/Header.module.css'
 const Header = () => {
     return <div className={styles.Header} id='header'>
         <div className = {styles.headerleft}>
-            <img src='img/mylogo.jpg' className={styles.logo} />
+            <img src='img/mylogo.jpg' alt='my Logo' className={styles.logo} />
             <div className={styles.name}>
                 <h5 className={styles.lefttext}>CHIBUEZE</h5>
                 <h6 className={styles.h6text}>WEB DESIGNER AND DEVELOPER</h6>
