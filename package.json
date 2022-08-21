@@ -2,6 +2,9 @@
   "name": "handi-man",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">50.9"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
