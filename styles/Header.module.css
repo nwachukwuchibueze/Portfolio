@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@300&display=swap');
 .Header{
     height:50px;
     width:auto;
@@ -28,14 +29,14 @@
 }
 
 .lefttext{
-    font-family: cursive;
+    font-family: 'Catamaran', sans-serif;
     font-weight: 700;
     color:white;
 }
 
 .h6text{
     margin-top:-20px;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Catamaran', sans-serif;
     letter-spacing: -0.5px;;
     font-size: 8px;
     color:white;
@@ -50,7 +51,7 @@
 }
 
 .rightlink{
-    font-family: cursive;
+    font-family: 'Catamaran', sans-serif;
     font-weight: 700;
     color:white;
     display: flex;

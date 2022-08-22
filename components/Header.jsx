@@ -3,7 +3,7 @@ import Image from 'next/image';
 const Header = () => {
     return <div className={styles.Header} id='header'>
         <div className = {styles.headerleft}>
-            <Image width='110px' height='70px' src='/img/mylogo.jpg' alt='my Logo' className={styles.logo} />
+            <Image width='140px' height='70px' src='/img/mylogo.jpg' alt='my Logo' className={styles.logo} />
             <div className={styles.name}>
                 <h5 className={styles.lefttext}>CHIBUEZE</h5>
                 <h6 className={styles.h6text}>WEB DESIGNER AND DEVELOPER</h6>
